@@ -8,7 +8,7 @@
 
 ## 说明
 
-- 大作业代码为 `Project/STLite_Honor` 子文件夹中 `my_` 开头的文件，其余为助教下发的框架
+- [`STLite`](https://github.com/ACMClassCourse-2021/STLite_Honor) 实现代码为 `Project/STLite_Honor` 子文件夹中 `my_` 开头的文件，其余为助教下发的框架
 - `Project/STLite_Honor` 文件夹中 `README.md` 为大作业要求，`Tutorial` 文件夹为助教下发的内存泄漏检测工具
 
 ## OJ链接
